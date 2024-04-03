@@ -1,0 +1,13 @@
+
+<resources>
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">#F40707</item>
+        <item name="android:colorPrimaryDark">#143CD1</item>
+        <item name="colorAccent">#23AB68</item>
+
+    </style>
+    <style name="TextInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">#fff</item>
+        <item name="boxStrokeWidth">2dp</item>
+    </style>
+</resources>

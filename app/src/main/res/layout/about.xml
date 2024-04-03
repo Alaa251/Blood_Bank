@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ff00"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".About">
+
+    <LinearLayout
+        android:layout_width="374dp"
+        android:layout_height="match_parent"
+        android:background="#fff"
+        android:gravity="center_vertical"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/Aboutt"
+            android:layout_width="match_parent"
+            android:layout_height="436dp"
+            android:layout_marginTop="5dp"
+            android:gravity="center"
+            android:text="The application of the blood bank aims to combine the donor and the needy for blood, as it tells the donor about the places where blood can be volunteered, as the person in need of blood can find a volunteer and send it through the notification inside the application to facilitate the meeting between them"
+            android:textColor="#000"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/ala"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_marginTop="5dp"
+            android:gravity="left"
+            android:text="Designed_Developed by : Alaa Tarig Othman Ahmed"
+            android:textColor="#000"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+
+        <Button
+
+            android:id="@+id/backB"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="20dp"
+            android:background="@drawable/header_background"
+            android:gravity="center"
+            android:text="Back"
+            android:textColor="#fff"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</LinearLayout>

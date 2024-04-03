@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "306812440527",
+    "project_id": "bloodbank2022-c7477",
+    "storage_bucket": "bloodbank2022-c7477.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306812440527:android:4c4b45b023cdb03d25ccba",
+        "android_client_info": {
+          "package_name": "com.example.blood2022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306812440527-r5vibgt5jv7qub917sitef8fi4e4mbh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgG7uMlNsALwPUepGpjSiI0-sTP-TV6UU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306812440527-r5vibgt5jv7qub917sitef8fi4e4mbh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306812440527:android:cb66d93d28d3652b25ccba",
+        "android_client_info": {
+          "package_name": "com.example.blood_bank_2022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306812440527-r5vibgt5jv7qub917sitef8fi4e4mbh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgG7uMlNsALwPUepGpjSiI0-sTP-TV6UU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306812440527-r5vibgt5jv7qub917sitef8fi4e4mbh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306812440527:android:fa8ddd310850964d25ccba",
+        "android_client_info": {
+          "package_name": "example.blood_bank_2022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306812440527-qbbkbi743kb3r29fa5ctfk9lgjc23v1j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "example.blood_bank_2022",
+            "certificate_hash": "82d35086367b41175eecc6eb37b40d50d0e607ac"
+          }
+        },
+        {
+          "client_id": "306812440527-r5vibgt5jv7qub917sitef8fi4e4mbh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgG7uMlNsALwPUepGpjSiI0-sTP-TV6UU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306812440527-r5vibgt5jv7qub917sitef8fi4e4mbh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
